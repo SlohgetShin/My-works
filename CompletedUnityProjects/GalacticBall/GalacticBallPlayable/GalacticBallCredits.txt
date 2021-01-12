@@ -1,0 +1,22 @@
+Credits
+Marble rolling sound(unused)- Marble, Rolling on Wood, A.wav" by InspectorJ (www.jshaw.co.uk) of Freesound.org
+
+button graphic- https://assetstore.unity.com/packages/essentials/unity-samples-ui-25468
+
+font- https://www.dafont.com/neon-future.font by arukidz.fl
+
+camera help- https://www.youtube.com/watch?v=7nxpDwnU0uU
+
+ball material source URI
+https://www.wallpaperhi.com/Anime/Gundam_Seed/1920x1080_px_art_artwork_digital_nebulae_outer_space_stars_127298
+
+sound credits:
+
+bensound_dance snd		composer: Benjamin Tissot ie. Bensound
+fesliyan Studios_bumping sng 	composer: David Renada
+freesounf_jumping sfx		composer: Leszek Szary
+
+
+lava material:
+
+https://www.clipart.email/download/8049791.html
